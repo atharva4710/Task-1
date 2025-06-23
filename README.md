@@ -6,7 +6,7 @@ This project demonstrates essential data cleaning and preprocessing techniques u
 ## 📁 Files Included
 
 - `Data_Cleaning_Preprocessing_Titanic.ipynb` – Jupyter Notebook containing the complete data cleaning and preprocessing pipeline.
-- `titanic.csv` – Dataset file
+- `Titanic-Dataset.csv` – Dataset file
 
 ## 🛠️ Tools & Libraries Used
 
